@@ -9,7 +9,7 @@
   <tr>
    <td>
 
-<img src="cover.jpg" width="183px" height="235px" title="이재환의 자바 프로그래밍 입문" alt="RubberDuck"></img><br/>
+<img src="cover3D.jpg" width="183px" height="235px" title="이재환의 자바 프로그래밍 입문" alt="RubberDuck"></img><br/>
 
    </td>
    <td><strong>서지 정보</strong>
