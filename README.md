@@ -3,7 +3,8 @@
 도서명 : **<Must Have> 이재환의 자바 프로그래밍 입문**
 부제 : 설치 없이 익히는 《선수 수업》부터 딱 필요한 만큼 핵심 문법과 미니 프로젝트까지
 
-| ![](http://image.kyobobook.co.kr/images/book/xlarge/863/x9791197149863.jpg) | **서지 정보**
+| --- | --- | --- |
+| ![표지](http://image.kyobobook.co.kr/images/book/xlarge/863/x9791197149863.jpg) | **서지 정보**
 
 ・ 지은이 : 이재환
 ・ 출판사 : 골든래빗(주)
