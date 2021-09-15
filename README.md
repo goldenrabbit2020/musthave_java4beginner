@@ -1,12 +1,4 @@
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 1.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-&lt;Must Have 이재환의 자바 프로그래밍 입문> 예제 소스 코드입니다.
+Must Have 이재환의 자바 프로그래밍 입문> 예제 소스 코드입니다.
 
 도서명 : **&lt;Must Have> 이재환의 자바 프로그래밍 입문**
 
@@ -16,9 +8,6 @@
 <table>
   <tr>
    <td>
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 
 <img src="http://image.kyobobook.co.kr/images/book/xlarge/863/x9791197149863.jpg" width="" alt="alt_text" title="image_tooltip">
 
