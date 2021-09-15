@@ -9,7 +9,7 @@
   <tr>
    <td>
 
-<img src="http://image.kyobobook.co.kr/images/book/xlarge/863/x9791197149863.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="http://image.kyobobook.co.kr/images/book/xlarge/863/x9791197149863.jpg" width="183px" height="235px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
    </td>
    <td><strong>서지 정보</strong>
