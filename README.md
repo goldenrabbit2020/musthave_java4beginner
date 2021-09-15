@@ -6,6 +6,7 @@
 ![표지](http://image.kyobobook.co.kr/images/book/xlarge/863/x9791197149863.jpg) 
  
  **서지 정보**
+ 
 ・ 지은이 : 이재환
 ・ 출판사 : 골든래빗(주)
 ・ ISBN :  979-11-971498-6-3
