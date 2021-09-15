@@ -3,9 +3,9 @@
 도서명 : **<Must Have> 이재환의 자바 프로그래밍 입문**
 부제 : 설치 없이 익히는 《선수 수업》부터 딱 필요한 만큼 핵심 문법과 미니 프로젝트까지
 
-| --- | --- | --- |
-| ![표지](http://image.kyobobook.co.kr/images/book/xlarge/863/x9791197149863.jpg) | **서지 정보**
-
+![표지](http://image.kyobobook.co.kr/images/book/xlarge/863/x9791197149863.jpg) 
+ 
+ **서지 정보**
 ・ 지은이 : 이재환
 ・ 출판사 : 골든래빗(주)
 ・ ISBN :  979-11-971498-6-3
@@ -13,15 +13,13 @@
 ・ 분량 : 630쪽
 ・ 난이도 : 입문, 초급, 중급
 
- | **구매처**
+**구매처**
 
 ・ [골든래빗](https://bit.ly/3xoPGWc​)
 ・ [교보문고](https://bit.ly/2VgWdEG​)
 ・ [예스24](https://bit.ly/3f1WHWg) ​
 ・ [알라딘](https://bit.ly/3ybW9ES​)
 ・ [인터파크](https://bit.ly/2UVrVaW) ​
- | 
-| --- | --- | --- |
 
 ## 1. 책 소개
 **★ 딱 필요한 만큼,**
